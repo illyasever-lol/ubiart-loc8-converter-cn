@@ -1,24 +1,31 @@
 #
-**增加简中loc8文件适配。loc8Convertersc=转换简中localisation.itf_language_simplifiedchinese.loc8**
+**25/12/15增加简中loc8文件适配。loc8Convertersc=转换简中localisation.itf_language_simplifiedchinese.loc8**
 
 # ubiart-loc8-converter
-UbiArt localisation file converter that lets you decompress, compress, and patch loc8 files easily.
+UbiArt 本地化文件转换器，可让您轻松解压缩、压缩和修补 loc8 文件。
 
-## Why?
-`.loc8` files are used for localisation in UbiArt Framework games. This script lets you easily extract or modify those files. It has been used personally by me for many years to create mods for Just Dance.
+## 用途？
 
-## Supported games
-- Just Dance 2015 - 2022 on all platforms (probably Just Dance 2014 too, haven't tested it)
-- Rayman Legends
-- Rayman Origins
-- ...most likely any other UbiArt game in existence
+`.loc8` 文件用于 UbiArt Framework 游戏中的本地化。此脚本可让您轻松提取或修改这些文件。多年来，我一直使用它来为《舞力全开》（Just Dance）制作模组。
 
-## How to use it
-This script doesn't depend on any external modules. All you need is Python 3+.
+## 支持的游戏
 
-However, this script requires passing parameters when used standalone:
+- 所有平台上的《舞力全开》2015 - 2022（可能也支持《舞力全开》2014，但我没有测试过）
+
+- 《雷曼：传奇》（Rayman Legends）
+
+- 《雷曼：起源》（Rayman Origins）
+
+- ……几乎所有其他 UbiArt 游戏
+
+## 使用方法
+
+此脚本不依赖任何外部模块。您只需要 Python 3 或更高版本。
+
+但是，单独使用此脚本时需要传递参数：
 
 ```
+
 py loc8Converter.py <mode> <input> <output>
 
 Modes:
