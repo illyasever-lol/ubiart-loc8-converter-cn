@@ -1,5 +1,5 @@
 #
-增加简中loc8文件适配。loc8Convertersc=转换简中localisation.itf_language_simplifiedchinese.loc8
+**增加简中loc8文件适配。loc8Convertersc=转换简中localisation.itf_language_simplifiedchinese.loc8**
 
 # ubiart-loc8-converter
 UbiArt localisation file converter that lets you decompress, compress, and patch loc8 files easily.
