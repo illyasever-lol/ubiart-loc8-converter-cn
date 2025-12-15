@@ -1,3 +1,6 @@
+#
+增加简中loc8文件适配。loc8Convertersc=转换简中localisation.itf_language_simplifiedchinese.loc8
+
 # ubiart-loc8-converter
 UbiArt localisation file converter that lets you decompress, compress, and patch loc8 files easily.
 
@@ -19,11 +22,11 @@ However, this script requires passing parameters when used standalone:
 py loc8Converter.py <mode> <input> <output>
 
 Modes:
--d --decompress     Decompresses the loc8 file as JSON
--c --compress       Compresses the file back to loc8 from JSON
--p --patch          Patches the output JSON file with values in input JSON file
+-d --decompress     解密 the loc8 file as JSON
+-c --compress       将JSON文件转换回 loc8
+-p --patch          将json进行对比，将修改文件进行合并
 
-Sample usage:
+例子:
 py loc8Converter.py -d localisation.loc8 localisation.json
 ```
 
