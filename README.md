@@ -1,4 +1,5 @@
 #
+**26/1/11增加繁中loc8文件适配。loc8Convertertc=转换繁中localisation.itf_language_traditionalchinese.loc8**
 **25/12/15增加简中loc8文件适配。loc8Convertersc=转换简中localisation.itf_language_simplifiedchinese.loc8**
 
 # ubiart-loc8-converter
