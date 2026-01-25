@@ -1,16 +1,17 @@
-![语种选项截图](https://github.com/user-attachments/assets/d21add74-50c2-47c9-9cd7-cadae4c959d3)#
 **26/1/25 增加启动器，只要下载loc8Convertertc3.py及loc8转换工具启动器.py到同一目录下，运行loc8转换工具启动器.py即可**
+
 1、启动器启动界面，可选择loc8转换为json或json转换为loc8
-[img]https://github.com/illyasever-lol/ubiart-loc8-converter-cn/blob/main/images/%E5%B7%A5%E5%85%B7%E7%AE%B1%E7%95%8C%E9%9D%A2.jpg?raw=true[/img]
+
+![启动界面](https://github.com/illyasever-lol/ubiart-loc8-converter-cn/blob/main/images/%E5%B7%A5%E5%85%B7%E7%AE%B1%E7%95%8C%E9%9D%A2.jpg)
+
 2、增加json文件判定，如果有错误的位置会进行提示，便于修复
-[img]https://github.com/illyasever-lol/ubiart-loc8-converter-cn/blob/main/images/%E9%94%99%E8%AF%AF%E6%8F%90%E7%A4%BA.jpg?raw=true[/img]
+
+![错误提示](https://github.com/illyasever-lol/ubiart-loc8-converter-cn/blob/main/images/%E9%94%99%E8%AF%AF%E6%8F%90%E7%A4%BA.jpg)
+
 3、增加多语种支持，可支持全部13语种互相转换，转换结束前选择对应语种即可
-[img]https://github.com/illyasever-lol/ubiart-loc8-converter-cn/blob/main/images/%E8%AF%AD%E7%A7%8D%E9%80%89%E9%A1%B9%E6%88%AA%E5%9B%BE.jpg?raw=true[/img]
 
+![语种选项截图](https://github.com/user-attachments/assets/d21add74-50c2-47c9-9cd7-cadae4c959d3)#
 
-**26/1/11增加繁中loc8文件适配。loc8Convertertc=转换繁中localisation.itf_language_traditionalchinese.loc8**
-
-**25/12/15增加简中loc8文件适配。loc8Convertersc=转换简中localisation.itf_language_simplifiedchinese.loc8**
 
 # ubiart-loc8-converter
 UbiArt 本地化文件转换器，可让您轻松解压缩、压缩和修补 loc8 文件。
