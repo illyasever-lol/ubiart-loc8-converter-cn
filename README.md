@@ -1,4 +1,6 @@
-**26/1/25 增加启动器，只要下载loc8Convertertc3.py及loc8转换工具启动器.py到同一目录下，运行loc8转换工具启动器.py即可**
+**26/1/25**
+
+**增加启动器，只要下载loc8Convertertc3.py及loc8转换工具启动器.py到同一目录下，运行loc8转换工具启动器.py即可**
 
 1、启动器启动界面，可选择loc8转换为json或json转换为loc8
 
