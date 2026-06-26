@@ -1,3 +1,7 @@
+**26/6/26**
+**增加俄语、意大利语、瑞典语的转换选项**
+![新增内容](https://github.com/illyasever-lol/ubiart-loc8-converter-cn/blob/main/images/20260626210916.jpg)
+
 **26/1/25**
 
 **增加启动器，只要下载loc8Convertertc3.py及loc8转换工具启动器.py到同一目录下，运行loc8转换工具启动器.py即可**
