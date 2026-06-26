@@ -10,13 +10,16 @@ LANG_MAP = {
     "2": ("日语 (Japanese)", 0x02),
     "3": ("德语 (German)", 0x03),
     "4": ("西班牙语 (Spanish)", 0x04),
+    "5": ("意大利语 (Italian)", 0x05),
     "6": ("韩语 (Korean)", 0x06),
     "7": ("繁体中文 (Traditional Chinese)", 0x07),
     "8": ("葡萄牙语 (Portuguese)", 0x08),
     "9": ("简体中文 (Simplified Chinese)", 0x09),
+    "B": ("俄语 (Russian)", 0x0B),
     "C": ("荷兰语 (Dutch)", 0x0C),
     "D": ("丹麦语 (Danish)", 0x0D),
     "E": ("挪威语 (Norwegian)", 0x0E),
+    "F": ("瑞典语 (Swedish)", 0x0F),
     "10": ("芬兰语 (Finnish)", 0x10)
 }
 
