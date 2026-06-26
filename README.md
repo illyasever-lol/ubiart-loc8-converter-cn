@@ -1,8 +1,12 @@
 **26/6/26**
 
+
 **增加俄语、意大利语、瑞典语的转换选项**
 
+
 ![新增内容](https://github.com/illyasever-lol/ubiart-loc8-converter-cn/blob/main/images/20260626210916.jpg)
+
+
 
 **26/1/25**
 
